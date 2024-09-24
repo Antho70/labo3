@@ -20,3 +20,12 @@ th, td
 {
     width: 200px;
 }
+
+.footer-link
+{
+bottom: 0;
+position: fixed;
+}
+
+
+

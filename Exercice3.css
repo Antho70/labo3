@@ -1,0 +1,28 @@
+h1{
+
+    text-align: center;
+}
+
+table, td, th
+{
+
+    border: 2px solid;
+            border-collapse: collapse;
+            padding: 8px;
+           text-align: center;
+   
+           
+}
+
+th, td
+{
+    width: 300px;
+}
+
+
+    table {
+        width: 100%; /* Ajuste la largeur si nécessaire */
+        height: 200px; /* Fixe la hauteur totale du tableau */
+        overflow-y: scroll; /* Ajoute un défilement si le contenu dépasse */
+    }
+
