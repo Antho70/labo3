@@ -10,19 +10,11 @@ table, td, th
             border-collapse: collapse;
             padding: 8px;
            text-align: center;
+           margin: auto;
    
            
 }
 
-th, td
-{
-    width: 300px;
-}
 
 
-    table {
-        width: 100%; /* Ajuste la largeur si nécessaire */
-        height: 200px; /* Fixe la hauteur totale du tableau */
-        overflow-y: scroll; /* Ajoute un défilement si le contenu dépasse */
-    }
-
+    
